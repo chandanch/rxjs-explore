@@ -5,11 +5,11 @@ A simple repo which includes examples of following concepts in RxJS:
 2. Observer
 3. Subscription
 4. Subjects
-5. Subject variants
+5. Subject variants:
     * BehaviourSubject
     * AsyncSubject
     * ReplaySubject
-6. Operators
+6. Operators - Creation, Transforming, Combining, Conditional
     * from
     * map
     * merge
